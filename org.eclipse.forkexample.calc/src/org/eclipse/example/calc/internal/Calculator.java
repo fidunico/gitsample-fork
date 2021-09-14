@@ -28,7 +28,7 @@ public class Calculator {
 
 	private float value;
 
-	public static String NAME = "Simple Calculator";
+	public static final String NAME = "Simple Calculator";
 
 	public Calculator(TextProvider textProvider) {
 		this.textProvider = textProvider;
