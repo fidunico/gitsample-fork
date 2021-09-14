@@ -48,6 +48,7 @@ public class Calculator {
 	private void calculate(String cmdName) {
 		float curValue;
 		float newValue = 0;
+		// weitere Test für ein Commit
 		//Another change
 
 		// get current value of display
