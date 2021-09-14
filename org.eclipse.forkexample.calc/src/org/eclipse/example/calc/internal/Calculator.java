@@ -34,7 +34,7 @@ public class Calculator {
 		this.textProvider = textProvider;
 		setupDefaultOperations();
 	}
-
+	// Insert new function
 	private void setupDefaultOperations() {
 	    // Das ist der erste Kommentar in masterGithub
 	    // Das ist der zweite Kommentar in master
